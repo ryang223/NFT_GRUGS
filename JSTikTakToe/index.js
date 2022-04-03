@@ -1,5 +1,5 @@
 function xonigga() {
-
+  var 
 }
 
 function tiktaktoe() {
